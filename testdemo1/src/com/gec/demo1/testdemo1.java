@@ -5,4 +5,6 @@ public class testdemo1 {
 	void test1() {}
 	
 	void test2() {}
+	
+	void test3() {}
 }
