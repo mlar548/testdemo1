@@ -4,5 +4,5 @@ public class testdemo1 {
 
 	void testbranch2() {}
 	
-	void testmercg() {}
+	void testmerge() {}
 }
